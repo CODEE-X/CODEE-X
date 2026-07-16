@@ -97,7 +97,7 @@
     <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/devndesk?cardType=level&theme=radical" alt="GitHub Stats"/>
 </td>
 <td>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devndesk" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devndesk&theme=transparent" alt="GitHub Streak" /></a>
 </td>
 </tr>
 </table>
